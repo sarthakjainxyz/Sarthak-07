@@ -24,10 +24,9 @@
 
 ### IDE's
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-black?style=for-the-badge&logo=visual%20studio&logoColor=purple)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
-![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak-07&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-07&theme=dark)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-07&theme=dark)
 
 <h2>Currently working on</h2>
 

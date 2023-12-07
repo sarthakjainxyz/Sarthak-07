@@ -26,8 +26,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)
 
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-07&theme=dark)
-
 <h2>Currently working on</h2>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Sarthak-07&repo=SkyblockRemake&theme=dark)

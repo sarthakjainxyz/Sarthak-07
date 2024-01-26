@@ -10,7 +10,7 @@ I'm Sarthak Jain, a passionate developer who enjoys crafting code and building t
 
 - 📫 Reach me on Discord **@sarthak77**
 
-- ⚡ I’m looking to collaborate on:- Full Stack Projects
+- ⚡ I’m looking to collaborate on **Full Stack Projects**
 
 <h2>💻 Tech Stack</h2>
 

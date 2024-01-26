@@ -4,7 +4,7 @@
 
 I'm Sarthak Jain, a passionate developer who enjoys crafting code and building things that live on the internet. Currently, I'm focused on honing my backend development skills, but I'm no stranger to the frontend world either. :)
 
-- 🌱 I’m currently working on **MERN Stack**, **PHP Laravel** & More...
+- 🌱 I’m currently learning **MERN Stack**, **PHP Laravel** & More...
 
 - 💬 Ask me about **Java, Python, Typescript, React & Tailwind**
 

@@ -1,4 +1,4 @@
-<h1>Hey, I'm Sarthak Jain <img  src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="30px"></h1>
+<h1>Hi there <img  src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" width="30px"></h1>
 
 <br />
 

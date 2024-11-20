@@ -4,7 +4,7 @@
 
 I'm Sarthak Jain, a passionate self taught developer who enjoys crafting code and building things that live on the internet. Currently, I'm focused on honing my backend development skills, but I'm no stranger to the frontend world either. I have made some extensions for Pterodactyl and Blueprint Framework and made some good looking Websites & Themes. :)
 
-- 🌱 I’m currently learning **MERN Stack**, **PHP Laravel** & More...
+- 🌱 I’m currently working on [StellarStudios](https://discord.com/invite/sQjuWcDxBY)
 
 - 💬 Ask me about **PHP, Typescript, React, Laravel & TailwindCSS**
 
